@@ -6,7 +6,7 @@ function findDivisors(int) {
   for (let i = 2; i < int; i++){
     if (int % i === 0) resultArray.push(i)
   }
-  console.log(resultArray)
+  
   return resultArray.length === 0 ? `${int} is prime` : resultArray;
 }
 
