@@ -17,4 +17,8 @@ describe('findDivisors', () => {
     expect(findDivisors(9)).toStrictEqual([3]);
   });
 
+  it('should return [2,4,5,10] when given 20', () => {
+    expect(findDivisors(20)).toStrictEqual([2,4,5,10]);
+  });
+
 });
