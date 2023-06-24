@@ -1,5 +1,5 @@
-function findDivisors() {
-  return 'hello';
+function findDivisors(int) {
+  return [3];
 }
 
-module.exports = hello;
+module.exports = findDivisors;
