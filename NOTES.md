@@ -10,7 +10,7 @@
 - ✅ 'should return [3] when given 3'
 - ✅ 'should return [2,3] when given 6'
 - ✅ 'should return "invalid" when given string'
-- ⚠ TODO 'should return [3] when given 9'
+- ✅ 'should return [3] when given 9'
 - ⚠ TODO 'should return [2,4,5,10] when given 20'
 - ⚠ TODO 'should return "13 is prime" when given 13'
 
